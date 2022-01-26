@@ -4,6 +4,8 @@
 [![forthebadge](https://forthebadge.com/images/badges/mom-made-pizza-rolls.svg)](https://forthebadge.com)
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/char0n/ramda-adjunct/issues)
+[![size](https://img.shields.io/badge/dynamic/json?color=informational&label=Size&query=2.size&suffix=%20Bytes&url=https%3A%2F%2Fapi.github.com%2Frepos%2FGcat101%2Fopen-source-food%2Fcontents)](https://github.com/Gcat101/open-source-food/tree/main/recipes)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 When closed sourced food isn't enough.
 
