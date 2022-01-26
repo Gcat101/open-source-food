@@ -1,6 +1,6 @@
 # OpenSourceFood
 
-![logo](https://user-images.githubusercontent.com/79367505/151184365-b8dbc350-6f5c-45bf-90df-5c6bfe339102.png)
+![logo](https://github.com/Gcat101/open-source-food/blob/main/logo.png?raw=true)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-grammas-recipe.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/mom-made-pizza-rolls.svg)](https://forthebadge.com)
