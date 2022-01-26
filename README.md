@@ -45,7 +45,9 @@ A cooking book or a recipe you know.
 
 5. Add your file to /recipes/(first letter of your meal (# if other)) directory,
 
-6. Open a pull request.
+6. Name it like spaghetti-bolognese.md
+
+7. Open a pull request.
 
 ## FAQ
 
