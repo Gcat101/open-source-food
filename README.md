@@ -42,3 +42,33 @@ A cooking book or a recipe you know.
 5. Add your file to /recipes/(first letter of your meal (# if other)) directory,
 
 6. Open a pull request.
+
+## FAQ
+
+### Why?
+
+Because coders can't cook, let's teach them how to!
+
+### Is this a joke?
+
+100% serious.
+
+### Is it multiplatform?
+
+Only for Life™.
+
+### Is there an AUR package?
+
+No.
+
+### What language do you use?
+
+English.
+
+### What do I do if the recipe is fake?
+
+Open an [issue](https://github.com/Gcat101/open-source-food/issues).
+
+### When version 2.0?
+
+Never.
