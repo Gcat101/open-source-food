@@ -8,7 +8,7 @@
 
 - 500g beef mince
 
-- 400g bolognese sauce 400 grams bolognese sauce  
+- 400g bolognese sauce
 
 ## Method
 
